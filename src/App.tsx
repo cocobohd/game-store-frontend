@@ -1,5 +1,4 @@
 import { Suspense } from "react";
-import "./configs/i18n";
 import { RouterProvider } from "react-router-dom";
 import { appRoute } from "./router/main.router";
 
